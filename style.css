@@ -32,5 +32,5 @@ input[type=text], select, textarea {
     padding: 20px;
   }
   footer{
-      border-top: 8px solid #4aaaa5;
+      border-top: 8px solid; color: forestgreen;
   }
